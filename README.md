@@ -7,7 +7,7 @@ Anyway, this was made to add changes, resources, materials, and stuff of the sor
 
 If you think you can help, let aceofspades know in the Discord, though I would suggest making a Pull Request before asking for contributor.
 The discord is below if you want to inquire about anything.
-https://discord.gg/NubWvfwh96
+[https://discord.gg/NubWvfwh96](https://discord.gg/fGbXaMm4Ya)
 (perm invite)
 
 # Setup for Contribution
